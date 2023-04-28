@@ -1,1 +1,1 @@
-This is Torri's first git project, Yes!
+This is T's first git project, Yes!
